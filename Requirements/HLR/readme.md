@@ -1,4 +1,4 @@
-# HIGH LEVEL REQUIREMENTS
+# HIGH LEVEL REQUIREMENTS:
 |**Serial Number**|` `**Requirements** |**Description**|**Status**|
 | :- | :- | :- | :- |
 |1|<p>Power Window</p><p></p>|User manually opens or closes the window through a button press.|Implemented|
