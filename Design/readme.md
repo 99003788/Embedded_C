@@ -1,4 +1,4 @@
 |**Serial Number**|**Folder**|**Description**|
 | :- | :- | :- |
-|1|HLR|High Level Requirements UML Diagram|
-|2|LLR|Low Level Requirements UML Diagram|
+|1|HLR|UML Diagram for High Level Requirements|
+|2|LLR|UML Diagram for Low Level Requirements|
