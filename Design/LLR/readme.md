@@ -1,1 +1,2 @@
-
+# UML DIAGRAM FOR LOW LWEVEL REQUIREMENTS:
+![LLR UML DIAGRAM](https://user-images.githubusercontent.com/78849542/115183141-dde46b00-a0f8-11eb-969e-eb75268d6ded.PNG)
